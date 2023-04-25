@@ -1,2 +1,2 @@
-# H6-Network-design
-Design a system to monitor activities of students in the buildings, including measurement devices to reduce energy costs, using Cisco Packet Tracer.
+# H6 Network Design
+This system design will use Cisco Packet Tracer to create a network that can monitor the activities of students in a building. The system will include sensors that can measure energy usage, as well as cameras that can capture video footage of students' activities. The data collected by the sensors and cameras will be stored in a database, and it can be used to track student behavior and identify energy-wasting activities. This information can then be used to improve energy efficiency in the building and reduce costs.
